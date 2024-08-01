@@ -65,3 +65,4 @@ com.android.bips
 com.casper.ota
 com.android.cellbroadcastreceiver
 com.android.launcher3 (just install neo launcher or lawnchair)
+com.android.calculator2
