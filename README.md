@@ -1,4 +1,4 @@
-# Casper-L20-debloater
+# Casper-VIA-L20-debloater
 Use [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) to remove the packages inside packages.txt
 
 ### After de-bloating
